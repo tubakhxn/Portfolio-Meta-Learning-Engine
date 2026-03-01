@@ -1,6 +1,7 @@
 ## dev/creator: tubakhxn
 
 # Portfolio Meta-Learning Engine
+<img width="2400" height="1546" alt="image" src="https://github.com/user-attachments/assets/b5a4132f-3b60-43e7-8b52-3ac8b6c9184d" />
 
 This project is an advanced quant dashboard for institutional-grade portfolio construction using meta-learning. It dynamically selects portfolio strategies based on detected market regimes and visualizes market structure using interactive 3D spectral analysis.
 
@@ -24,3 +25,4 @@ This project is an advanced quant dashboard for institutional-grade portfolio co
 
 ---
 For any questions or improvements, contact tubakhxn.
+
